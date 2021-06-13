@@ -6,4 +6,4 @@
 
 				
 <a href="https://twitter.com/tanishq1905">Twitter</a>  <br />
-<a href="https://discord.gg/UM92zUn">Discord: `Taz34#1949`</a>
+<a href="https://discord.gg/UM92zUn">Discord:</a> `Taz34#1949`
