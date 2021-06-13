@@ -1,13 +1,9 @@
- _____             _____ _  _   
-|_   _|_ _ ____   |___ /| || |  
-  | |/ _` |_  /____ |_ \| || |_ 
-  | | (_| |/ /_____|__) |__   _|
-  |_|\__,_/___|   |____/   |_|  
- 
-<--
-$whoami
-  -Cybersec enthusiast
-  -Security Research
-  -CTF Player
-  -CTF Creator
--->
+<h1> Taz-34  </h1>
+				-Cybersec Enthusiast <br />
+			 -Security Researcher <br />
+				-CTF Player <br />
+		  -CTF Creator <br /> <br />
+
+				
+<a href="https://twitter.com/tanishq1905">Twitter</a>  <br />
+<a href="https://discord.gg/UM92zUn">Discord: `Taz34`</a>
